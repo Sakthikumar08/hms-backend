@@ -1,60 +1,207 @@
 [
-    {
-      "fullName": "John Doe",
-      "dob": "12th March 1995",
-      "gender": "Male",
-      "bloodGroup": "O+",
-      "contactNumber": "+91 98765 43210",
-      "email": "john.doe@example.com",
-      "aadhaarNumber": "XXXX-XXXX-1234",
-      "linkedMobile": "XXXXXX3210",
-      "medicalConditions": ["Diabetes", "Hypertension"],
-      "allergies": ["Penicillin", "Nuts"],
-      "emergencyContact": {
-        "name": "Jane Doe",
-        "relation": "Sister",
-        "phone": "+91 87654 32109"
-      },
-      "healthID": "SHC-2025-01234",
-      "insuranceSchemes": ["PM-JAY", "State Insurance Plan"]
+  {
+    "fullName": "Rajesh Kumar",
+    "dob": "1985-06-15",
+    "gender": "Male",
+    "bloodGroup": "O+",
+    "contactNumber": "9876543210",
+    "email": "rajesh.kumar@example.com",
+    "address": {
+      "street": "123 MG Road",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600001",
+      "country": "India"
     },
-    {
-      "fullName": "Alice Smith",
-      "dob": "5th July 1988",
-      "gender": "Female",
-      "bloodGroup": "A+",
-      "contactNumber": "+91 99876 54321",
-      "email": "alice.smith@example.com",
-      "aadhaarNumber": "YYYY-YYYY-5678",
-      "linkedMobile": "XXXXXX5678",
-      "medicalConditions": ["Asthma"],
-      "allergies": ["Dust", "Pollen"],
-      "emergencyContact": {
-        "name": "Bob Smith",
-        "relation": "Brother",
-        "phone": "+91 91234 56789"
-      },
-      "healthID": "SHC-2025-05678",
-      "insuranceSchemes": ["Private Health Insurance"]
+    "maritalStatus": "Married",
+    "occupation": "Software Engineer",
+    "height": 175,
+    "weight": 70,
+    "aadhaarNumber": "123456789012",
+    "linkedMobile": "9876543210",
+    "medicalConditions": ["Diabetes"],
+    "allergies": ["Peanuts"],
+    "medications": ["Metformin"],
+    "previousSurgeries": ["Appendectomy"],
+    "vaccinations": ["COVID-19", "Hepatitis B"],
+    "emergencyContact": {
+      "name": "Anita Kumar",
+      "relation": "Wife",
+      "phone": "9876543211"
     },
-    {
-      "fullName": "Raj Kumar",
-      "dob": "20th November 1992",
-      "gender": "Male",
-      "bloodGroup": "B-",
-      "contactNumber": "+91 98765 98765",
-      "email": "raj.kumar@example.com",
-      "aadhaarNumber": "ZZZZ-ZZZZ-9101",
-      "linkedMobile": "XXXXXX9101",
-      "medicalConditions": ["High Cholesterol"],
-      "allergies": ["Shellfish"],
-      "emergencyContact": {
-        "name": "Priya Kumar",
-        "relation": "Wife",
-        "phone": "+91 99887 65432"
-      },
-      "healthID": "SHC-2025-09101",
-      "insuranceSchemes": ["Government Insurance"]
+    "healthID": "HID12345",
+    "smartHealthCardExpiry": "2027-12-31",
+    "lastConsultation": "2024-02-10",
+    "doctorAssigned": "Dr. Sharma",
+    "insuranceSchemes": ["LIC Health Plus"],
+    "governmentIDProofs": {
+      "panCard": "ABCDE1234F",
+      "voterID": "TN12345678",
+      "drivingLicense": "DL12345678"
     }
-  ]
-  
+  },
+  {
+    "fullName": "Meera Reddy",
+    "dob": "1992-08-21",
+    "gender": "Female",
+    "bloodGroup": "A-",
+    "contactNumber": "9876509876",
+    "email": "meera.reddy@example.com",
+    "address": {
+      "street": "456 Lakeview Avenue",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560001",
+      "country": "India"
+    },
+    "maritalStatus": "Single",
+    "occupation": "Doctor",
+    "height": 165,
+    "weight": 55,
+    "aadhaarNumber": "234567890123",
+    "linkedMobile": "9876509876",
+    "medicalConditions": [],
+    "allergies": ["Dust"],
+    "medications": [],
+    "previousSurgeries": [],
+    "vaccinations": ["COVID-19", "Typhoid"],
+    "emergencyContact": {
+      "name": "Raj Reddy",
+      "relation": "Father",
+      "phone": "9876509877"
+    },
+    "healthID": "HID67890",
+    "smartHealthCardExpiry": "2026-11-30",
+    "lastConsultation": "2024-01-15",
+    "doctorAssigned": "Dr. Kapoor",
+    "insuranceSchemes": ["Max Bupa Health Insurance"],
+    "governmentIDProofs": {
+      "panCard": "XYZAB5678K",
+      "voterID": "KA98765432",
+      "drivingLicense": "DL87654321"
+    }
+  },
+  {
+    "fullName": "Arun Sharma",
+    "dob": "1978-02-12",
+    "gender": "Male",
+    "bloodGroup": "B+",
+    "contactNumber": "9876123456",
+    "email": "arun.sharma@example.com",
+    "address": {
+      "street": "789 Green Park",
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110001",
+      "country": "India"
+    },
+    "maritalStatus": "Married",
+    "occupation": "Businessman",
+    "height": 180,
+    "weight": 80,
+    "aadhaarNumber": "345678901234",
+    "linkedMobile": "9876123456",
+    "medicalConditions": ["Hypertension"],
+    "allergies": [],
+    "medications": ["Amlodipine"],
+    "previousSurgeries": ["Knee Replacement"],
+    "vaccinations": ["COVID-19"],
+    "emergencyContact": {
+      "name": "Sonia Sharma",
+      "relation": "Wife",
+      "phone": "9876123457"
+    },
+    "healthID": "HID23456",
+    "smartHealthCardExpiry": "2025-10-20",
+    "lastConsultation": "2024-03-05",
+    "doctorAssigned": "Dr. Mehta",
+    "insuranceSchemes": ["Star Health"],
+    "governmentIDProofs": {
+      "panCard": "LMNOP1234Q",
+      "voterID": "DL12345678",
+      "drivingLicense": "DL11223344"
+    }
+  },
+  {
+    "fullName": "Sneha Iyer",
+    "dob": "1995-11-30",
+    "gender": "Female",
+    "bloodGroup": "AB+",
+    "contactNumber": "9876987654",
+    "email": "sneha.iyer@example.com",
+    "address": {
+      "street": "123 Marine Drive",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001",
+      "country": "India"
+    },
+    "maritalStatus": "Single",
+    "occupation": "Designer",
+    "height": 160,
+    "weight": 50,
+    "aadhaarNumber": "456789012345",
+    "linkedMobile": "9876987654",
+    "medicalConditions": [],
+    "allergies": ["Shellfish"],
+    "medications": [],
+    "previousSurgeries": [],
+    "vaccinations": ["Hepatitis A", "COVID-19"],
+    "emergencyContact": {
+      "name": "Naveen Iyer",
+      "relation": "Brother",
+      "phone": "9876987655"
+    },
+    "healthID": "HID56789",
+    "smartHealthCardExpiry": "2026-06-15",
+    "lastConsultation": "2024-01-22",
+    "doctorAssigned": "Dr. Rao",
+    "insuranceSchemes": ["Bajaj Allianz"],
+    "governmentIDProofs": {
+      "panCard": "PQRST6789L",
+      "voterID": "MH98765432",
+      "drivingLicense": "DL99887766"
+    }
+  },
+  {
+    "fullName": "Vikram Singh",
+    "dob": "1980-05-25",
+    "gender": "Male",
+    "bloodGroup": "O-",
+    "contactNumber": "9876234567",
+    "email": "vikram.singh@example.com",
+    "address": {
+      "street": "555 Residency Road",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "pincode": "302001",
+      "country": "India"
+    },
+    "maritalStatus": "Married",
+    "occupation": "Lawyer",
+    "height": 178,
+    "weight": 75,
+    "aadhaarNumber": "567890123456",
+    "linkedMobile": "9876234567",
+    "medicalConditions": ["Asthma"],
+    "allergies": ["Pollen"],
+    "medications": ["Inhaler"],
+    "previousSurgeries": [],
+    "vaccinations": ["Tetanus", "COVID-19"],
+    "emergencyContact": {
+      "name": "Ritu Singh",
+      "relation": "Wife",
+      "phone": "9876234568"
+    },
+    "healthID": "HID34567",
+    "smartHealthCardExpiry": "2025-09-30",
+    "lastConsultation": "2024-02-28",
+    "doctorAssigned": "Dr. Verma",
+    "insuranceSchemes": ["HDFC Ergo"],
+    "governmentIDProofs": {
+      "panCard": "UVWXY1234Z",
+      "voterID": "RJ87654321",
+      "drivingLicense": "DL66554433"
+    }
+  }
+]
