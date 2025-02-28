@@ -40,6 +40,9 @@ const PatientSchema = new mongoose.Schema({
     voterID: { type: String },
     drivingLicense: { type: String },
   },
+  // New fields for OTP
+  temporaryOTP: { type: String },
+  otpExpiry: { type: Date },
 }, { timestamps: true });
 
 module.exports = mongoose.model("Patient", PatientSchema);
