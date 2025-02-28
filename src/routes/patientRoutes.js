@@ -46,6 +46,7 @@ router.get("/:aadhaarNumber", async (req, res) => {
     const expiryTime = new Date(Date.now() + 10 * 60 * 1000);
 
     patient.temporaryOTP = otp;
+    console.log(otp)
     patient.otpExpiry = expiryTime;
     await patient.save();
 
@@ -79,9 +80,9 @@ router.post("/verify-otp", async (req, res) => {
     patient.temporaryOTP = null;
     patient.otpExpiry = null;
     await patient.save();
+   
+    res.json({ message: "OTP verified successfully", patient });
 
-    res.json({ message: "OTP verified successfully" });
-    res.json(patient);
   } catch (error) {
     res.status(500).json({ message: "Server error", error });
   }
