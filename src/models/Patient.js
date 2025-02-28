@@ -43,6 +43,13 @@ const PatientSchema = new mongoose.Schema({
   // New fields for OTP
   temporaryOTP: { type: String },
   otpExpiry: { type: Date },
+  // Medical Records Schema
+  medicalRecords: [{
+    date: { type: Date, required: true },
+    doctor: { type: String, required: true },
+    disease: { type: String, required: true },
+    medicine: { type: String, required: true }
+  }]
 }, { timestamps: true });
 
 module.exports = mongoose.model("Patient", PatientSchema);

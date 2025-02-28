@@ -1,207 +1,185 @@
 [
   {
-    "fullName": "Rajesh Kumar",
-    "dob": "1985-06-15",
-    "gender": "Male",
-    "bloodGroup": "O+",
-    "contactNumber": "9876543210",
-    "email": "rajesh.kumar@example.com",
-    "address": {
-      "street": "123 MG Road",
-      "city": "Chennai",
-      "state": "Tamil Nadu",
-      "pincode": "600001",
-      "country": "India"
-    },
-    "maritalStatus": "Married",
-    "occupation": "Software Engineer",
-    "height": 175,
-    "weight": 70,
-    "aadhaarNumber": "123456789012",
-    "linkedMobile": "9876543210",
-    "medicalConditions": ["Diabetes"],
-    "allergies": ["Peanuts"],
-    "medications": ["Metformin"],
-    "previousSurgeries": ["Appendectomy"],
-    "vaccinations": ["COVID-19", "Hepatitis B"],
-    "emergencyContact": {
-      "name": "Anita Kumar",
-      "relation": "Wife",
-      "phone": "9876543211"
-    },
-    "healthID": "HID12345",
-    "smartHealthCardExpiry": "2027-12-31",
-    "lastConsultation": "2024-02-10",
-    "doctorAssigned": "Dr. Sharma",
-    "insuranceSchemes": ["LIC Health Plus"],
-    "governmentIDProofs": {
-      "panCard": "ABCDE1234F",
-      "voterID": "TN12345678",
-      "drivingLicense": "DL12345678"
-    }
-  },
-  {
-    "fullName": "Meera Reddy",
-    "dob": "1992-08-21",
+    "fullName": "Anjali Mehta",
+    "dob": "1990-08-22",
     "gender": "Female",
-    "bloodGroup": "A-",
-    "contactNumber": "9876509876",
-    "email": "meera.reddy@example.com",
+    "bloodGroup": "A+",
+    "contactNumber": "9876543215",
+    "email": "anjali.mehta@example.com",
     "address": {
-      "street": "456 Lakeview Avenue",
-      "city": "Bangalore",
-      "state": "Karnataka",
-      "pincode": "560001",
-      "country": "India"
-    },
-    "maritalStatus": "Single",
-    "occupation": "Doctor",
-    "height": 165,
-    "weight": 55,
-    "aadhaarNumber": "234567890123",
-    "linkedMobile": "9876509876",
-    "medicalConditions": [],
-    "allergies": ["Dust"],
-    "medications": [],
-    "previousSurgeries": [],
-    "vaccinations": ["COVID-19", "Typhoid"],
-    "emergencyContact": {
-      "name": "Raj Reddy",
-      "relation": "Father",
-      "phone": "9876509877"
-    },
-    "healthID": "HID67890",
-    "smartHealthCardExpiry": "2026-11-30",
-    "lastConsultation": "2024-01-15",
-    "doctorAssigned": "Dr. Kapoor",
-    "insuranceSchemes": ["Max Bupa Health Insurance"],
-    "governmentIDProofs": {
-      "panCard": "XYZAB5678K",
-      "voterID": "KA98765432",
-      "drivingLicense": "DL87654321"
-    }
-  },
-  {
-    "fullName": "Arun Sharma",
-    "dob": "1978-02-12",
-    "gender": "Male",
-    "bloodGroup": "B+",
-    "contactNumber": "9876123456",
-    "email": "arun.sharma@example.com",
-    "address": {
-      "street": "789 Green Park",
-      "city": "Delhi",
-      "state": "Delhi",
-      "pincode": "110001",
-      "country": "India"
-    },
-    "maritalStatus": "Married",
-    "occupation": "Businessman",
-    "height": 180,
-    "weight": 80,
-    "aadhaarNumber": "345678901234",
-    "linkedMobile": "9876123456",
-    "medicalConditions": ["Hypertension"],
-    "allergies": [],
-    "medications": ["Amlodipine"],
-    "previousSurgeries": ["Knee Replacement"],
-    "vaccinations": ["COVID-19"],
-    "emergencyContact": {
-      "name": "Sonia Sharma",
-      "relation": "Wife",
-      "phone": "9876123457"
-    },
-    "healthID": "HID23456",
-    "smartHealthCardExpiry": "2025-10-20",
-    "lastConsultation": "2024-03-05",
-    "doctorAssigned": "Dr. Mehta",
-    "insuranceSchemes": ["Star Health"],
-    "governmentIDProofs": {
-      "panCard": "LMNOP1234Q",
-      "voterID": "DL12345678",
-      "drivingLicense": "DL11223344"
-    }
-  },
-  {
-    "fullName": "Sneha Iyer",
-    "dob": "1995-11-30",
-    "gender": "Female",
-    "bloodGroup": "AB+",
-    "contactNumber": "9876987654",
-    "email": "sneha.iyer@example.com",
-    "address": {
-      "street": "123 Marine Drive",
+      "street": "45 Park Street",
       "city": "Mumbai",
       "state": "Maharashtra",
       "pincode": "400001",
       "country": "India"
     },
     "maritalStatus": "Single",
-    "occupation": "Designer",
-    "height": 160,
-    "weight": 50,
-    "aadhaarNumber": "456789012345",
-    "linkedMobile": "9876987654",
-    "medicalConditions": [],
-    "allergies": ["Shellfish"],
-    "medications": [],
+    "occupation": "Teacher",
+    "height": 162,
+    "weight": 55,
+    "aadhaarNumber": "234567890123",
+    "linkedMobile": "9876543215",
+    "medicalConditions": ["Asthma"],
+    "allergies": ["Dust"],
+    "medications": ["Salbutamol"],
     "previousSurgeries": [],
-    "vaccinations": ["Hepatitis A", "COVID-19"],
+    "vaccinations": ["COVID-19", "Typhoid"],
     "emergencyContact": {
-      "name": "Naveen Iyer",
+      "name": "Ravi Mehta",
       "relation": "Brother",
-      "phone": "9876987655"
+      "phone": "9876543222"
     },
-    "healthID": "HID56789",
-    "smartHealthCardExpiry": "2026-06-15",
-    "lastConsultation": "2024-01-22",
-    "doctorAssigned": "Dr. Rao",
-    "insuranceSchemes": ["Bajaj Allianz"],
+    "healthID": "HID23456",
+    "smartHealthCardExpiry": "2026-11-30",
+    "lastConsultation": "2024-02-15",
+    "doctorAssigned": "Dr. Sunita Verma",
+    "insuranceSchemes": ["ICICI Lombard Health"],
     "governmentIDProofs": {
-      "panCard": "PQRST6789L",
-      "voterID": "MH98765432",
-      "drivingLicense": "DL99887766"
-    }
+      "panCard": "BCDEF5678G",
+      "voterID": "MH78945612",
+      "drivingLicense": "DL78945612"
+    },
+    "medicalRecords": [
+      {
+        "date": "2024-02-15",
+        "doctor": "Dr. Sunita Verma",
+        "disease": "Asthma Attack",
+        "medicine": "Salbutamol Inhaler"
+      },
+      {
+        "date": "2023-12-10",
+        "doctor": "Dr. Ravi Kapoor",
+        "disease": "Sinus Infection",
+        "medicine": "Amoxicillin"
+      },
+      {
+        "date": "2023-09-05",
+        "doctor": "Dr. Manish Gupta",
+        "disease": "Migraine",
+        "medicine": "Sumatriptan"
+      }
+    ]
   },
   {
-    "fullName": "Vikram Singh",
-    "dob": "1980-05-25",
+    "fullName": "Ramesh Yadav",
+    "dob": "1982-11-10",
     "gender": "Male",
-    "bloodGroup": "O-",
-    "contactNumber": "9876234567",
-    "email": "vikram.singh@example.com",
+    "bloodGroup": "B-",
+    "contactNumber": "9876543230",
+    "email": "ramesh.yadav@example.com",
     "address": {
-      "street": "555 Residency Road",
-      "city": "Jaipur",
-      "state": "Rajasthan",
-      "pincode": "302001",
+      "street": "7 Gandhi Nagar",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560001",
       "country": "India"
     },
     "maritalStatus": "Married",
-    "occupation": "Lawyer",
-    "height": 178,
+    "occupation": "Bank Manager",
+    "height": 170,
     "weight": 75,
-    "aadhaarNumber": "567890123456",
-    "linkedMobile": "9876234567",
-    "medicalConditions": ["Asthma"],
-    "allergies": ["Pollen"],
-    "medications": ["Inhaler"],
-    "previousSurgeries": [],
-    "vaccinations": ["Tetanus", "COVID-19"],
+    "aadhaarNumber": "345678901234",
+    "linkedMobile": "9876543230",
+    "medicalConditions": ["Hypertension"],
+    "allergies": ["Penicillin"],
+    "medications": ["Amlodipine"],
+    "previousSurgeries": ["Gallbladder Removal"],
+    "vaccinations": ["COVID-19", "Hepatitis A"],
     "emergencyContact": {
-      "name": "Ritu Singh",
+      "name": "Seema Yadav",
       "relation": "Wife",
-      "phone": "9876234568"
+      "phone": "9876543240"
     },
     "healthID": "HID34567",
-    "smartHealthCardExpiry": "2025-09-30",
-    "lastConsultation": "2024-02-28",
-    "doctorAssigned": "Dr. Verma",
-    "insuranceSchemes": ["HDFC Ergo"],
+    "smartHealthCardExpiry": "2028-09-25",
+    "lastConsultation": "2024-01-20",
+    "doctorAssigned": "Dr. Ramesh Kumar",
+    "insuranceSchemes": ["Max Bupa Health"],
     "governmentIDProofs": {
-      "panCard": "UVWXY1234Z",
-      "voterID": "RJ87654321",
-      "drivingLicense": "DL66554433"
-    }
+      "panCard": "CDEFG7890H",
+      "voterID": "KA12347890",
+      "drivingLicense": "DL23456789"
+    },
+    "medicalRecords": [
+      {
+        "date": "2024-01-20",
+        "doctor": "Dr. Ramesh Kumar",
+        "disease": "Hypertension",
+        "medicine": "Amlodipine"
+      },
+      {
+        "date": "2023-10-12",
+        "doctor": "Dr. Kavita Desai",
+        "disease": "Dengue",
+        "medicine": "Electrolyte Replenishment"
+      },
+      {
+        "date": "2023-07-18",
+        "doctor": "Dr. Arvind Malhotra",
+        "disease": "Typhoid",
+        "medicine": "Cefixime"
+      }
+    ]
+  },
+  {
+    "fullName": "Pooja Nair",
+    "dob": "1995-03-18",
+    "gender": "Female",
+    "bloodGroup": "AB+",
+    "contactNumber": "9876543245",
+    "email": "pooja.nair@example.com",
+    "address": {
+      "street": "22 Lotus Avenue",
+      "city": "Kochi",
+      "state": "Kerala",
+      "pincode": "682001",
+      "country": "India"
+    },
+    "maritalStatus": "Single",
+    "occupation": "Graphic Designer",
+    "height": 160,
+    "weight": 58,
+    "aadhaarNumber": "456789012345",
+    "linkedMobile": "9876543245",
+    "medicalConditions": ["Anemia"],
+    "allergies": ["Pollen"],
+    "medications": ["Iron Supplements"],
+    "previousSurgeries": [],
+    "vaccinations": ["COVID-19", "HPV"],
+    "emergencyContact": {
+      "name": "Vikas Nair",
+      "relation": "Father",
+      "phone": "9876543250"
+    },
+    "healthID": "HID45678",
+    "smartHealthCardExpiry": "2029-05-15",
+    "lastConsultation": "2024-02-01",
+    "doctorAssigned": "Dr. Sneha Menon",
+    "insuranceSchemes": ["HDFC Ergo Health"],
+    "governmentIDProofs": {
+      "panCard": "DEFGH8901J",
+      "voterID": "KL56789012",
+      "drivingLicense": "DL34567890"
+    },
+    "medicalRecords": [
+      {
+        "date": "2024-02-01",
+        "doctor": "Dr. Sneha Menon",
+        "disease": "Anemia",
+        "medicine": "Iron Supplements"
+      },
+      {
+        "date": "2023-11-20",
+        "doctor": "Dr. Meera Iyer",
+        "disease": "Urinary Tract Infection",
+        "medicine": "Nitrofurantoin"
+      },
+      {
+        "date": "2023-08-12",
+        "doctor": "Dr. Aditya Narayan",
+        "disease": "Skin Allergy",
+        "medicine": "Cetirizine"
+      }
+    ]
   }
 ]
